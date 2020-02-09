@@ -1,0 +1,28 @@
+Supported Products:
+Adobe Acrobat DC 19.x (universal amtlib)
+Adobe After Effects CC 2019 v16.1.1
+Adobe Animate CC 2019 v19.2
+Adobe Audition CC 2019 v12.1
+Adobe Bridge CC 2019 v9.0.3
+Adobe Character Animator CC 2019 v2.1
+Adobe Dimension CC v2.x (universal amtlib)
+Adobe Dreamweaver CC 2019 v19.1
+Adobe Illustrator CC 2019 v23.0.3
+Adobe InCopy CC 2019 v14.0.2
+Adobe Indesign CC 2019 v14.0.2
+Adobe Lightroom CC v2.2.1
+Adobe Lightroom Classic CC v8.2.1
+Adobe Media Encoder CC 2019 v13.1
+Adobe Photoshop CC 2019 v20.0.4
+Adobe Prelude CC 2019 v8.1
+Adobe Premiere Pro CC 2019 v13.1
+Adobe XD v18.0.12.9
+
+Added:
+Adobe Acrobat DC v19.010.20099
+Adobe After Effects CC 2019 v16.1.1
+Adobe Audition CC 2019 v12.1.0.182
+Adobe Bridge CC 2019 v9.0.3.279
+Adobe Dimension CC v2.2
+Adobe InCopy CC 2019 v14.0.2
+
